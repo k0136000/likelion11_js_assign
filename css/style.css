@@ -1,0 +1,57 @@
+html,
+body {
+    background: #ddd
+}
+
+.title {
+    padding-top: 50px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.todoDiv {
+    background: white;
+    border-radius: 20px;
+    width: 500px;
+    height: 700px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dates {
+    padding-left: 30px;
+    padding-top: 50px;
+}
+
+.lists {
+    padding-left: 30px;
+}
+
+.date {
+    font-size: 35px;
+}
+
+.dayOfWeek {
+    color: #a0a0a0;
+    /* color: #FFEA00; */
+}
+
+li {
+    font-size: 20px;
+}
+
+.input {
+    width: 280px;
+    height: 30px;
+}
+
+.addBtn {
+    height: 30px;
+    width: 30px;
+}
+
+.todolist {
+    padding-left: 30px;
+    padding-top: 30px;
+}
